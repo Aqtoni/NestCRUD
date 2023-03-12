@@ -27,7 +27,6 @@ In file `package.json` there is a command for this.
       </a>
       <br />
       Docker
-<table>
   <tr>
     <td align="center" valign="middle" width="17%">
       <a href="https://www.prisma.io/">
