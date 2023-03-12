@@ -1,4 +1,4 @@
-# NestJS Swagger PostgreSQL TypeORM Docker
+# NestJS Prisma PostgreSQL TypeORM Docker
 
 A Backend application based on NestJS, where PostgreSQL acts as a database, to control the base used
 Prisma. Also Using passport.js, and json web tokens (JWT). There is also e2e tests in the tests folder.
