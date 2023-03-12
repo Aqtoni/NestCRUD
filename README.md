@@ -27,7 +27,7 @@ In file `package.json` there is a command for this.
       </a>
       <br />
       Docker
-  <tr>
+    <tr>
     <td align="center" valign="middle" width="17%">
       <a href="https://www.prisma.io/">
       <img height="50" alt="Prisma" src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png"/>
